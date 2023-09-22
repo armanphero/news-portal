@@ -1,0 +1,20 @@
+body {
+    background: #f6f6f6;
+}
+img{
+    max-width: 100%;
+}
+a, p{
+    color: #858585;
+}
+nav a , .catagory{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+/* card css */
+.cards {
+    background: #fff;
+    padding: 2%;
+    border-radius: 5px;
+}
